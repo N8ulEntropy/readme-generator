@@ -1,3 +1,1 @@
-README Auto Generator is a lightweight Node.js CLI tool that automatically creates professional README.md files for your projects. Instead of manually writing documentation, users are guided through a series of prompts to provide project details such as the project name, description, installation steps, usage instructions, license, and author information. The tool then generates a clean, well-structured README file instantly, helping developers save time and maintain consistent project documentation.
 
-Built for simplicity and productivity, this generator is ideal for students, open-source contributors, and developers who want to streamline the documentation process directly from Visual Studio Code or any terminal environment.
